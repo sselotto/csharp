@@ -34,6 +34,7 @@ namespace Course
                 Console.WriteLine($"Enter #{i} item data:");
                 Console.Write("Product name: ");
                 string productName = Console.ReadLine();
+
                 Console.Write("Product price: ");
                 double price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
