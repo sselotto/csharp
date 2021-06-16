@@ -25,7 +25,7 @@ namespace LINQ_Lambda
 
             List<Product> products = new List<Product>()
             {
-                 new Product() { Id = 1, Name = "Computer", Price = 1100.0, Category = c2 },
+                new Product() { Id = 1, Name = "Computer", Price = 1100.0, Category = c2 },
                 new Product() { Id = 2, Name = "Hammer", Price = 90.0, Category = c1 },
                 new Product() { Id = 3, Name = "TV", Price = 1700.0, Category = c3 },
                 new Product() { Id = 4, Name = "Notebook", Price = 1300.0, Category = c2 },
